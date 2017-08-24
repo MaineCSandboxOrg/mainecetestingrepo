@@ -16,3 +16,8 @@ clone from new org upstream
 make change,
 push
 
+change after:
+pull from old org,
+make change,
+push
+
